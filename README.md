@@ -1,6 +1,6 @@
 # Gutendex Books Android App
 
-This is an Android app that uses the Gutendex API to display a list of books and their details. The app is built with Kotlin, follows clean architecture principles, and utilizes the latest Android development tools and libraries.
+This is an Android app that uses the Gutendex API to display a list of books and their details. The app is built with Kotlin, follows clean architecture principles, and utilizes the latest Android development tools and libraries in June 2023.
 
 ## Features
 
